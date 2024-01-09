@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Undefined
+  - 01notebook
+  - 01pen
+  - 01printer
+  - 00pen
+  - 00printer
+  - 00notebook
+  - 01paper
+  - 00paper
+  - 01keyboard
+  - 00keyboard
+  - 01wifi
+  - 00wifi
+  - 01phone
+  - 00phone
+  - 01computer
+  - 00computer
+  - 01app
+  - 00app
+  - 00book
+  - 01book
+  - 01website
+  - 00website
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

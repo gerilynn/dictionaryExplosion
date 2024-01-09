@@ -1,0 +1,13 @@
+PREFABS 
+4 kinds: 
+2 for images- square and skinny
+2 for words- short and long
+
+everything else is a prefab.
+
+prefab images are simply called <vocabword>A, B, C etc
+prefab words are called <vocabword>00
+
+TAGS
+00<vocabword> is the word itself
+01<vocabword> is the image. All images have this tag!
